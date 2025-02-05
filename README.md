@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Narongsak Ngamchaiyaphum
-- 👀 I’m interested in Ecological study, RStudio and GeoDa program.
-- 🌱 I’m currently learning Family Medicine in Khon Kaen Hospital, Thailand.
+- 👋 Hi, I’m Narongsak Ngamchaiyaphum M.D.
+- 🌱 Education and Work Experience
+2014 – 2019 Bachelor of Medicine, Suranaree University of Technology
+2020 First-Year Medical Internship, Chaiyaphum Hospital
+2021 Second-Year Medical Internship, Kaset Sombun Hospital
+2022 Third-Year Medical Internship, Phukhieo Chalermphrakiat Hospital
+2023 – Present Residency Training in Family Medicine, Khon Kaen Hospital
+- 👀 I’m interested in Ecological study.
 - ✨ I'm working on the spatial patterns detection of tuberculosis at the sub-district level in Mueang Khon Kaen District Project.
 <!---
 Azz247/Azz247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
