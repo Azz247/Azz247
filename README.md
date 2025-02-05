@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Narongsak Ngamchaiyaphum M.D.
 - 🌱 Education and Work Experience
-2014 – 2019 Bachelor of Medicine, Suranaree University of Technology
-2020 First-Year Medical Internship, Chaiyaphum Hospital
-2021 Second-Year Medical Internship, Kaset Sombun Hospital
-2022 Third-Year Medical Internship, Phukhieo Chalermphrakiat Hospital
-2023 – Present Residency Training in Family Medicine, Khon Kaen Hospital
+  2014 – 2019 Bachelor of Medicine, Suranaree University of Technology
+  2020 First-Year Medical Internship, Chaiyaphum Hospital
+  2021 Second-Year Medical Internship, Kaset Sombun Hospital
+  2022 Third-Year Medical Internship, Phukhieo Chalermphrakiat Hospital
+  2023 – Present Residency Training in Family Medicine, Khon Kaen Hospital
 - 👀 I’m interested in Ecological study.
 - ✨ I'm working on the spatial patterns detection of tuberculosis at the sub-district level in Mueang Khon Kaen District Project.
 <!---
