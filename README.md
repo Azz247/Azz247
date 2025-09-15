@@ -10,7 +10,7 @@
 
 ## 👀 Interests  
 
-I’m interested in Ecological studies.  
+I’m interested in ecological studies and geriatric family medicine.
 
 ## ✨ Current Work  
 
