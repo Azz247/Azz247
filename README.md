@@ -15,7 +15,7 @@ I’m interested in ecological studies and geriatric family medicine.
 ## ✨ Current Work  
 
 I'm working on detecting spatial patterns of tuberculosis at the sub-district level in Mueang Khon Kaen District.  
-
+➡️ https://azz247.github.io/GeoTB/index.html
 <!---
 Azz247/Azz247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
